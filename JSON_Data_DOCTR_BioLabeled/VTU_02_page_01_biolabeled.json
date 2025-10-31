@@ -1,0 +1,101 @@
+{
+  "student_info": {
+    "usn": "4AD23EC028",
+    "name": "GAGAN K B",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BEC401",
+      "name": "Subject 1",
+      "internal_marks": 45,
+      "external_marks": 21,
+      "total_marks": 66,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC402",
+      "name": "Subject 2",
+      "internal_marks": 49,
+      "external_marks": 38,
+      "total_marks": 87,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BEC403",
+      "name": "Subject 3",
+      "internal_marks": 47,
+      "external_marks": 32,
+      "total_marks": 79,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BECL404",
+      "name": "Subject 4",
+      "internal_marks": 43,
+      "external_marks": 24,
+      "total_marks": 67,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BBOK407",
+      "name": "Subject 5",
+      "internal_marks": 46,
+      "external_marks": 33,
+      "total_marks": 79,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 92,
+      "external_marks": 0,
+      "total_marks": 92,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 7",
+      "internal_marks": 46,
+      "external_marks": 45,
+      "total_marks": 91,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BECL456A",
+      "name": "Subject 8",
+      "internal_marks": 45,
+      "external_marks": 29,
+      "total_marks": 74,
+      "grade": "P",
+      "label": "Pass_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 8,
+    "subjects_passed": 8,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 3,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 5
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_02_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.612997",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "agegdals 30033 agoweeab, 23enod. ONOEE3B. gpeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 ado/ Rddoedd awo adegos Roabobo go3ood 203 / 2e3-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23EC028 Student Name : GAGAN K B Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks /Updated on BEC401 ELECTROMAGNETICS 45 21 66 P 2025-07-31 THEORY BEC402 PRINCIPLES OF 49 38 87 P 2025-07-31 COMMUNICATION SYSTEMS BEC403 CONTROL SYSTEMS 47 32 79 P 2025-07-31 BECL404 COMMUNICATION LAB 44 inol 45 89 P 2025-07-31 BBOK407 BIOLOGY FOR 43 24 67 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN 46 33 79 P 2025-07-31 VALUES COURSE BNSK459 NATIONAL SERVICE 92 0 92 P 2025-07-31 SCHEME BECL456A MICROCONTROLLERS 46 45 91 P 2025-07-31 LAB BEC405A MICROCONTROLLERS 45 29 74 P 2025-07-31 # - Noabades / dogeadtorieb Nomenclature / Abbreviations P-> PASS F-> FAIL A -> ABSENT W -> WITHHELD X, NE -> NOT ..."
+}

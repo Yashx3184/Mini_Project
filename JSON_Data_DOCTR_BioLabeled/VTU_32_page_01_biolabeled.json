@@ -1,0 +1,92 @@
+{
+  "student_info": {
+    "usn": "4AD23EC065",
+    "name": "POORVITHA H L",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BEC401",
+      "name": "Subject 1",
+      "internal_marks": 40,
+      "external_marks": 18,
+      "total_marks": 58,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC402",
+      "name": "Subject 2",
+      "internal_marks": 45,
+      "external_marks": 26,
+      "total_marks": 71,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC403",
+      "name": "Subject 3",
+      "internal_marks": 41,
+      "external_marks": 35,
+      "total_marks": 76,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BECL404",
+      "name": "Subject 4",
+      "internal_marks": 90,
+      "external_marks": 0,
+      "total_marks": 90,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOK407",
+      "name": "Subject 5",
+      "internal_marks": 39,
+      "external_marks": 36,
+      "total_marks": 75,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 45,
+      "external_marks": 22,
+      "total_marks": 67,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BPEK459",
+      "name": "Subject 7",
+      "internal_marks": 40,
+      "external_marks": 39,
+      "total_marks": 79,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 7,
+    "subjects_passed": 7,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 3,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 4
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_32_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.717611",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "apegdals 30033 agawgead, 23e000. ONOEE38. apeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. - INDIA 2.30.0 anol Roddoedd aao aoegod soaboba ce30o3 203 / we3-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23EC065 Student Name : POORVITHA H L Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks U /Updated on U BEC401 ELECTROMAGNETICS 40 18 58 P 2025-07-31 THEORY BEC402 PRINCIPLES OF 44 19 63 2025-07-31 COMMUNICATION SYSTEMS BEC403 CONTROL SYSTEMS c42 20 62 P 2025-07-31 BECL404 COMMUNICATION LAB 48 0 a l 28 ne 76 P 2025-07-31 BBOK407 BIOLOGY FOR 45 26 71 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN 41 35 76 P 2025-07-31 VALUES COURSE BPEK459 PHYSICAL EDUCATION 90 0 90 P 2025-07-31 BECL456A MICROCONTROLLERS 39 36 75 P 2025-07-31 LAB BEC405A MICROCONTROLLERS 45 22 67 P 2025-07-31 Semester : 3 Subject Subject Name Internal External Total Result Announced Code Marks Marks /Updated on B..."
+}

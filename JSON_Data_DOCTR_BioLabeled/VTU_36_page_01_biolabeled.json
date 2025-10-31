@@ -1,0 +1,101 @@
+{
+  "student_info": {
+    "usn": "4AD23CI059",
+    "name": "V APOORVA",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "Subject 1",
+      "internal_marks": 47,
+      "external_marks": 38,
+      "total_marks": 85,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BAD402",
+      "name": "Subject 2",
+      "internal_marks": 46,
+      "external_marks": 35,
+      "total_marks": 81,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "Subject 3",
+      "internal_marks": 48,
+      "external_marks": 31,
+      "total_marks": 79,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "Subject 4",
+      "internal_marks": 48,
+      "external_marks": 49,
+      "total_marks": 97,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "Subject 5",
+      "internal_marks": 46,
+      "external_marks": 28,
+      "total_marks": 74,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 48,
+      "external_marks": 38,
+      "total_marks": 86,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BPEK459",
+      "name": "Subject 7",
+      "internal_marks": 80,
+      "external_marks": 0,
+      "total_marks": 80,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS405A",
+      "name": "Subject 8",
+      "internal_marks": 45,
+      "external_marks": 36,
+      "total_marks": 81,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 8,
+    "subjects_passed": 8,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 1,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 7
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_36_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.729946",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "agegdals 30038 agoweeab, 238000. ONOEE33. 2peda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 aaa / Rddoedd ada adegas Roaboba gosooz 203 / 203-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23CI059 Student Name : V APOORVA Semester: 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks /Updated 23 on BCS401 ANALYSIS & 08 47 38 85 P 2025-07-31 DESIGN OF ALGORITHMS BAD402 ARTIFICIAL 46 35 81 P 2025-07-31 INTELLIGENCE 8 BCS403 DATABASE 48 31 79 P 2025-07-31 P MANAGEMENT SYSTEMS Echnolo BCSL404 ANALYSIS & 48 49 97 P 2025-07-31 DESIGN OF ALGORITHMS LAB BBOC407 BIOLOGY FOR 46 28 74 P 2025-07-31 COMPUTER ENGINEERS BUHK408 UNIVERSAL 48 38 86 P 2025-07-31 HUMAN VALUES COURSE BPEK459 PHYSICAL 80 0 80 P 2025-07-31 EDUCATION BCS405A DISCRETE 45 36 81 P 2025-07-31 https://results.vtu.ac.in/JJEcbcs25/resultpage.php 29/09/25, 9:26 PM Page 1of 2"
+}

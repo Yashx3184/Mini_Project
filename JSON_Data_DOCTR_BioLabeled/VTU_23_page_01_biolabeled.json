@@ -1,0 +1,110 @@
+{
+  "student_info": {
+    "usn": "4AD23CI034",
+    "name": "MOHAMMED GHOUSE JIBRAN",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "Subject 1",
+      "internal_marks": 41,
+      "external_marks": 21,
+      "total_marks": 62,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BAD402",
+      "name": "Subject 2",
+      "internal_marks": 42,
+      "external_marks": 25,
+      "total_marks": 67,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "Subject 3",
+      "internal_marks": 41,
+      "external_marks": 24,
+      "total_marks": 65,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "Subject 4",
+      "internal_marks": 40,
+      "external_marks": 26,
+      "total_marks": 66,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "Subject 5",
+      "internal_marks": 36,
+      "external_marks": 30,
+      "total_marks": 66,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 47,
+      "external_marks": 20,
+      "total_marks": 67,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 7",
+      "internal_marks": 70,
+      "external_marks": 0,
+      "total_marks": 70,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCS405A",
+      "name": "Subject 8",
+      "internal_marks": 36,
+      "external_marks": 21,
+      "total_marks": 57,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BDSL456B",
+      "name": "Subject 9",
+      "internal_marks": 46,
+      "external_marks": 48,
+      "total_marks": 94,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 9,
+    "subjects_passed": 9,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 8,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 1
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_23_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.688340",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "agegdals 30038 agowgead, 23eood. ONOEE38. gpoda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 adol N0,300030 awe aorrad soabaor gesoos WJOR / 23033-9009. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23CI034 Student Name : MOHAMMED GHOUSE JIBRAN Semester : 4 Subject Subject Name à h Internal External Total Result Announced Code Da Marks Marks / Updated on BCS401 ANALYSIS & DESIGN OF 41 21 62 P 2025-07-31 ALGORITHMS BAD402 ARTIFICIAL INTELLIGENCE: 42 25 67 P 2025-07-31 BCS403 DATABASE MANAGEMENT > 41 24 65 P 2025-07-31 SYSTEMS BCSL404 ANALYSIS & DESIGN OF C 40 26 66 P 2025-07-31 ALGORITHMS LAB a BBOC407 BIOLOGY FOR COMPUTER 36 30 66 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN VALUES 47 20 67 P 2025-07-31 COURSE BNSK459 NATIONAL SERVICE SCHEME 70 0 70 P 2025-07-31 BCS405A DISCRETE MATHEMATICAL 36 21 57 P 2025-07-31 STRUCTURES BDSL456B MONGODB 46 48 94 P 2025-07-31 Noaodeo / Rorfasones Nomenclature / Abbreviation..."
+}

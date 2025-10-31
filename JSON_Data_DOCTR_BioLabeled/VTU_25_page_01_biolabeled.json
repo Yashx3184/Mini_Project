@@ -1,0 +1,101 @@
+{
+  "student_info": {
+    "usn": "4AD23CI047",
+    "name": "SAMSON JOSE J",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "Subject 1",
+      "internal_marks": 45,
+      "external_marks": 28,
+      "total_marks": 73,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BAD402",
+      "name": "Subject 2",
+      "internal_marks": 47,
+      "external_marks": 32,
+      "total_marks": 79,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "Subject 3",
+      "internal_marks": 48,
+      "external_marks": 26,
+      "total_marks": 74,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "Subject 4",
+      "internal_marks": 47,
+      "external_marks": 49,
+      "total_marks": 96,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "Subject 5",
+      "internal_marks": 46,
+      "external_marks": 34,
+      "total_marks": 80,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 47,
+      "external_marks": 38,
+      "total_marks": 85,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BPEK459",
+      "name": "Subject 7",
+      "internal_marks": 46,
+      "external_marks": 35,
+      "total_marks": 81,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS405A",
+      "name": "Subject 8",
+      "internal_marks": 50,
+      "external_marks": 49,
+      "total_marks": 99,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 8,
+    "subjects_passed": 8,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 2,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 6
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_25_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.695195",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "agegdals 30033 agoweeab, 23enod. ONOEE3B. gpeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 ado/ Rddoedd awo adegos Roabobo go3ood 203 / 2e3-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23CI047 Student Name : SAMSON JOSE J Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks /Updated on BCS401 ANALYSIS & DESIGN 45 28 73 P 2025-07-31 OF ALGORITHMS BAD402 ARTIFICIAL 47 32 79 P 2025-07-31 INTELLIGENCE BCS403 DATABASE 48 26 74 P 2025-07-31 MANAGEMENT 0 I E a SYSTEMS nainal 0 E BCSL404 ANALYSIS & DESIGN 47 49 96 P 2025-07-31 OF ALGORITHMS LAB BBOC407 BIOLOGY FOR 46 34 80 P 2025-07-31 COMPUTER ENGINEERS BUHK408 UNIVERSAL HUMAN 47 38 85 P 2025-07-31 VALUES COURSE BPEK459 PHYSICAL EDUCATION 100 0 100 P 2025-07-31 BCS405A DISCRETE 46 35 81 P 2025-07-31 MATHEMATICAL STRUCTURES BDSL456B MONGODB 50 49 99 P 2025-07-31 : Noabades / dogeadtorieb Nomenclature / Abbreviations P-> PA..."
+}

@@ -1,0 +1,92 @@
+{
+  "student_info": {
+    "usn": "4AD23CD036",
+    "name": "pramodini n",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "Subject 1",
+      "internal_marks": 50,
+      "external_marks": 35,
+      "total_marks": 85,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS402",
+      "name": "Subject 2",
+      "internal_marks": 50,
+      "external_marks": 38,
+      "total_marks": 88,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "Subject 3",
+      "internal_marks": 48,
+      "external_marks": 36,
+      "total_marks": 84,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "Subject 4",
+      "internal_marks": 49,
+      "external_marks": 32,
+      "total_marks": 81,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "Subject 5",
+      "internal_marks": 80,
+      "external_marks": 0,
+      "total_marks": 80,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 50,
+      "external_marks": 37,
+      "total_marks": 87,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 7",
+      "internal_marks": 50,
+      "external_marks": 50,
+      "total_marks": 100,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 7,
+    "subjects_passed": 7,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 0,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 7
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_19_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.673788",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "apegdals 30033 agawgead, 23e000. ONOEE38. apeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 ada/ R3doedd aao aoegod Roaboba ce3oos 203 / 2e3-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23CD036 Student Name : pramodini n Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks /Updated on 0 BCS401 ANALYSIS & DESIGN OF 50 35 85 P 2025-07-31 ALGORITHMS BCS402 MICROCONTROLLERS 50 38 88 P 2025-07-31 BCS403 DATABASE 50 39 89 QP 2025-07-31 o MANAGEMENT SYSTEMS BCSL404 ANALYSIS & DESIGN OF 50 - 50 100 5 P 2025-07-31 ALGORITHMS LAB a ological BBOC407 BIOLOGY FOR COMPUTER 48 36 84 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN 49 32 81 P 2025-07-31 VALUES COURSE BNSK459 NATIONAL SERVICE 80 0 80 P 2025-07-31 SCHEME BCS405A DISCRETE 50 37 87 P 2025-07-31 MATHEMATICAL STRUCTURES BDSL456B MONGODB 50 50 100 P 2025-07-31 E soabades / Rogeadtorteb Nomenclature / Abbreviations"
+}

@@ -1,0 +1,83 @@
+{
+  "student_info": {
+    "usn": "4AD23EC030",
+    "name": "GANESH A K",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BEC401",
+      "name": "Subject 1",
+      "internal_marks": 50,
+      "external_marks": 34,
+      "total_marks": 84,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BEC402",
+      "name": "Subject 2",
+      "internal_marks": 44,
+      "external_marks": 32,
+      "total_marks": 76,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BEC403",
+      "name": "Subject 3",
+      "internal_marks": 45,
+      "external_marks": 29,
+      "total_marks": 74,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BECL404",
+      "name": "Subject 4",
+      "internal_marks": 92,
+      "external_marks": 0,
+      "total_marks": 92,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOK407",
+      "name": "Subject 5",
+      "internal_marks": 44,
+      "external_marks": 45,
+      "total_marks": 89,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 46,
+      "external_marks": 33,
+      "total_marks": 79,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 6,
+    "subjects_passed": 6,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 1,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 5
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_22_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.684360",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "apegdals 30033 agawgead, 23e000. ONOEE38. apeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. - INDIA 0.30.0 ado/ Roddoedd aao adegod soaboba cesood 203 / 2e3-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23EC030 Student Name : GANESH A K Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks U /Updated on U BEC401 ELECTROMAGNETICS 50 34 84 P 2025-07-31 THEORY BEC402 PRINCIPLES OF 49 38 87 2025-07-31 COMMUNICATION SYSTEMS BEC403 CONTROL SYSTEMS c48 - 38 86 P 2025-07-31 BECL404 COMMUNICATION LAB 45 nolo 36 n 81 P 2025-07-31 BBOK407 BIOLOGY FOR 44 32 76 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN 45 29 74 P 2025-07-31 VALUES COURSE BNSK459 NATIONAL SERVICE 92 0 92 P 2025-07-31 SCHEME BECL456A MICROCONTROLLERS 44 45 89 P 2025-07-31 LAB BEC405A MICROCONTROLLERS 46 33 79 P 2025-07-31 i soabades / dogeaitoneb Nomenclature / Abbreviations P-> PASS F-> FAIL A -> ABSENT W -> WITHHELD X, NE..."
+}

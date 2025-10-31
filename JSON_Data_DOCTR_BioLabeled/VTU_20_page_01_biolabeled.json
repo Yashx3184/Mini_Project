@@ -1,0 +1,101 @@
+{
+  "student_info": {
+    "usn": "4AD23CD047",
+    "name": "SHRAVANI",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "Subject 1",
+      "internal_marks": 49,
+      "external_marks": 44,
+      "total_marks": 93,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS402",
+      "name": "Subject 2",
+      "internal_marks": 50,
+      "external_marks": 27,
+      "total_marks": 77,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "Subject 3",
+      "internal_marks": 49,
+      "external_marks": 42,
+      "total_marks": 91,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "Subject 4",
+      "internal_marks": 46,
+      "external_marks": 46,
+      "total_marks": 92,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "Subject 5",
+      "internal_marks": 50,
+      "external_marks": 46,
+      "total_marks": 96,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 80,
+      "external_marks": 0,
+      "total_marks": 80,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 7",
+      "internal_marks": 45,
+      "external_marks": 46,
+      "total_marks": 91,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS405A",
+      "name": "Subject 8",
+      "internal_marks": 50,
+      "external_marks": 49,
+      "total_marks": 99,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 8,
+    "subjects_passed": 8,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 0,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 8
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_20_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.677098",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "agegdals 30033 agoweeab, 23enod. ONOEE3B. gpeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 ado/ Rddoedd awo adegos Roabobo go3ood 203 / 2e3-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23CD047 Student Name : SHRAVANI Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks /Updated on BCS401 ANALYSIS & DESIGN 49 44 93 P 2025-07-31 OF ALGORITHMS BCS402 MICROCONTROLLERS 50 27 77 P 2025-07-31 a BCS403 DATABASE 50 38 88 2025-07-31 MANAGEMENT SYSTEMS 2 BCSL404 ANALYSIS & DESIGN 49 42 91 P 2025-07-31 cal OF ALGORITHMS LAB BBOC407 BIOLOGY FOR 46 46 92 P 2025-07-31 COMPUTER ENGINEERS BUHK408 UNIVERSAL HUMAN 50 46 96 P 2025-07-31 VALUES COURSE BNSK459 NATIONAL SERVICE 80 0 80 P 2025-07-31 SCHEME BCS405A DISCRETE 45 46 91 P 2025-07-31 MATHEMATICAL STRUCTURES BDSL456B MONGODB 50 49 99 P 2025-07-31 : Noabades / dogeadtorieb Nomenclature / Abbreviations P-> PASS F->I FAIL A -> ABSE..."
+}

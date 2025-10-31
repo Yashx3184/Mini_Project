@@ -1,0 +1,473 @@
+{
+  "bio_labeling_summary": {
+    "timestamp": "2025-10-31T19:12:14.763241",
+    "total_files_processed": 45,
+    "input_folder": "JSON_Data_DOCTR",
+    "output_folder": "JSON_Data_DOCTR_BioLabeled",
+    "extraction_method": "doctr"
+  },
+  "performance_distribution": {
+    "Excellent": 36,
+    "Good": 6,
+    "Average": 0,
+    "At Risk": 3,
+    "Critical": 0
+  },
+  "statistics": {
+    "average_pass_percentage": 94.76,
+    "total_students_at_risk": 3,
+    "average_subjects_per_student": 7.4
+  },
+  "detailed_results": [
+    {
+      "original_file": "VTU_01_page_01_doctr.json",
+      "output_file": "VTU_01_page_01_biolabeled.json",
+      "usn": "4AD24EC403",
+      "name": "CHANDHANKUMAR M",
+      "overall_label": "At Risk",
+      "pass_percentage": 42.86,
+      "total_subjects": 7,
+      "subjects_failed": 4
+    },
+    {
+      "original_file": "VTU_02_page_01_doctr.json",
+      "output_file": "VTU_02_page_01_biolabeled.json",
+      "usn": "4AD23EC028",
+      "name": "GAGAN K B",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_03_page_01_doctr.json",
+      "output_file": "VTU_03_page_01_biolabeled.json",
+      "usn": "4AD23CD024",
+      "name": "MANASA M",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_04_page_01_doctr.json",
+      "output_file": "VTU_04_page_01_biolabeled.json",
+      "usn": "4AD23CI010",
+      "name": "DEEPAK CHAKRASALI",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_05_page_01_doctr.json",
+      "output_file": "VTU_05_page_01_biolabeled.json",
+      "usn": "4AD23EC011",
+      "name": "BHUVAN H",
+      "overall_label": "Good",
+      "pass_percentage": 87.5,
+      "total_subjects": 8,
+      "subjects_failed": 1
+    },
+    {
+      "original_file": "VTU_06_page_01_doctr.json",
+      "output_file": "VTU_06_page_01_biolabeled.json",
+      "usn": "4AD23CI009",
+      "name": "Unknown",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 7,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_07_page_01_doctr.json",
+      "output_file": "VTU_07_page_01_biolabeled.json",
+      "usn": "4AD23EC022",
+      "name": "DIVYASHREE M",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_08_page_01_doctr.json",
+      "output_file": "VTU_08_page_01_biolabeled.json",
+      "usn": "4AD23CD041",
+      "name": "SANIYA B",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_09_page_01_doctr.json",
+      "output_file": "VTU_09_page_01_biolabeled.json",
+      "usn": "4AD23EC045",
+      "name": "MANISH V",
+      "overall_label": "Good",
+      "pass_percentage": 85.71,
+      "total_subjects": 7,
+      "subjects_failed": 1
+    },
+    {
+      "original_file": "VTU_10_page_01_doctr.json",
+      "output_file": "VTU_10_page_01_biolabeled.json",
+      "usn": "4AD23EC062",
+      "name": "NISHITH GOWDA K S",
+      "overall_label": "At Risk",
+      "pass_percentage": 57.14,
+      "total_subjects": 7,
+      "subjects_failed": 3
+    },
+    {
+      "original_file": "VTU_11_page_01_doctr.json",
+      "output_file": "VTU_11_page_01_biolabeled.json",
+      "usn": "4AD23EC036",
+      "name": "JEEVAN RAJ N",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_12_page_01_doctr.json",
+      "output_file": "VTU_12_page_01_biolabeled.json",
+      "usn": "4AD23EC062",
+      "name": "NISHITH GOWDA K S",
+      "overall_label": "At Risk",
+      "pass_percentage": 57.14,
+      "total_subjects": 7,
+      "subjects_failed": 3
+    },
+    {
+      "original_file": "VTU_13_page_01_doctr.json",
+      "output_file": "VTU_13_page_01_biolabeled.json",
+      "usn": "4AD23EC042",
+      "name": "Unknown",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 7,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_14_doctr.json",
+      "output_file": "VTU_14_biolabeled.json",
+      "usn": "4AD23EC093",
+      "name": "SINCHANA N",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 6,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_15_doctr.json",
+      "output_file": "VTU_15_biolabeled.json",
+      "usn": "4AD23EC093",
+      "name": "SINCHANA N",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 6,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_16_page_01_doctr.json",
+      "output_file": "VTU_16_page_01_biolabeled.json",
+      "usn": "4AD23EC111",
+      "name": "Unknown",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_17_page_01_doctr.json",
+      "output_file": "VTU_17_page_01_biolabeled.json",
+      "usn": "4AD23CD040",
+      "name": "SAHANA N",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_18_doctr.json",
+      "output_file": "VTU_18_biolabeled.json",
+      "usn": "4AD23CI026",
+      "name": "MANYA K S",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 7,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_19_page_01_doctr.json",
+      "output_file": "VTU_19_page_01_biolabeled.json",
+      "usn": "4AD23CD036",
+      "name": "pramodini n",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 7,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_20_page_01_doctr.json",
+      "output_file": "VTU_20_page_01_biolabeled.json",
+      "usn": "4AD23CD047",
+      "name": "SHRAVANI",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_21_page_01_doctr.json",
+      "output_file": "VTU_21_page_01_biolabeled.json",
+      "usn": "4AD23EC009",
+      "name": "BHOOMIKA KS",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 6,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_22_page_01_doctr.json",
+      "output_file": "VTU_22_page_01_biolabeled.json",
+      "usn": "4AD23EC030",
+      "name": "GANESH A K",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 6,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_23_page_01_doctr.json",
+      "output_file": "VTU_23_page_01_biolabeled.json",
+      "usn": "4AD23CI034",
+      "name": "MOHAMMED GHOUSE JIBRAN",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 9,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_24_page_01_doctr.json",
+      "output_file": "VTU_24_page_01_biolabeled.json",
+      "usn": "4AD23EC027",
+      "name": "GAGAN CHANDRA M S",
+      "overall_label": "Good",
+      "pass_percentage": 87.5,
+      "total_subjects": 8,
+      "subjects_failed": 1
+    },
+    {
+      "original_file": "VTU_25_page_01_doctr.json",
+      "output_file": "VTU_25_page_01_biolabeled.json",
+      "usn": "4AD23CI047",
+      "name": "SAMSON JOSE J",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_26_page_01_doctr.json",
+      "output_file": "VTU_26_page_01_biolabeled.json",
+      "usn": "4AD23CI052",
+      "name": "sinchana n",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_27_page_01_doctr.json",
+      "output_file": "VTU_27_page_01_biolabeled.json",
+      "usn": "4AD23CI050",
+      "name": "Unknown",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 9,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_28_page_01_doctr.json",
+      "output_file": "VTU_28_page_01_biolabeled.json",
+      "usn": "4AD23EC057",
+      "name": "NAVYA SHREE P D",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 7,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_29_page_01_doctr.json",
+      "output_file": "VTU_29_page_01_biolabeled.json",
+      "usn": "4AD23CI017",
+      "name": "HEMANTH KUMAR V",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 7,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_30_page_01_doctr.json",
+      "output_file": "VTU_30_page_01_biolabeled.json",
+      "usn": "4AD24EC408",
+      "name": "Unknown",
+      "overall_label": "Good",
+      "pass_percentage": 75.0,
+      "total_subjects": 8,
+      "subjects_failed": 2
+    },
+    {
+      "original_file": "VTU_31_page_01_doctr.json",
+      "output_file": "VTU_31_page_01_biolabeled.json",
+      "usn": "4AD23EC055",
+      "name": "NAMITH T B",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 6,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_32_page_01_doctr.json",
+      "output_file": "VTU_32_page_01_biolabeled.json",
+      "usn": "4AD23EC065",
+      "name": "POORVITHA H L",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 7,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_33_page_01_doctr.json",
+      "output_file": "VTU_33_page_01_biolabeled.json",
+      "usn": "4AD23EC052",
+      "name": "MIRZA AAMIR HASEEB",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 6,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_34_page_01_doctr.json",
+      "output_file": "VTU_34_page_01_biolabeled.json",
+      "usn": "4AD23EC026",
+      "name": "G N HEMANT KUMAR",
+      "overall_label": "Good",
+      "pass_percentage": 85.71,
+      "total_subjects": 7,
+      "subjects_failed": 1
+    },
+    {
+      "original_file": "VTU_35_page_01_doctr.json",
+      "output_file": "VTU_35_page_01_biolabeled.json",
+      "usn": "4AD23EC047",
+      "name": "MANOJ K PRAKASH",
+      "overall_label": "Good",
+      "pass_percentage": 85.71,
+      "total_subjects": 7,
+      "subjects_failed": 1
+    },
+    {
+      "original_file": "VTU_36_page_01_doctr.json",
+      "output_file": "VTU_36_page_01_biolabeled.json",
+      "usn": "4AD23CI059",
+      "name": "V APOORVA",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_37_page_01_doctr.json",
+      "output_file": "VTU_37_page_01_biolabeled.json",
+      "usn": "4AD23EC105",
+      "name": "V V RIYA VIJAY",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 7,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_38_page_01_doctr.json",
+      "output_file": "VTU_38_page_01_biolabeled.json",
+      "usn": "4AD24EC400",
+      "name": "AKASH M R",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 6,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_39_page_01_doctr.json",
+      "output_file": "VTU_39_page_01_biolabeled.json",
+      "usn": "4AD23CD003",
+      "name": "Unknown",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_40_page_01_doctr.json",
+      "output_file": "VTU_40_page_01_biolabeled.json",
+      "usn": "4AD23CD020",
+      "name": "LAHARI M URS",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_41_page_01_doctr.json",
+      "output_file": "VTU_41_page_01_biolabeled.json",
+      "usn": "4AD23CI011",
+      "name": "DHANUSH GOWDA",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 7,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_42_page_01_doctr.json",
+      "output_file": "VTU_42_page_01_biolabeled.json",
+      "usn": "4AD23CI008",
+      "name": "CHANDAN H N",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 9,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_43_page_01_doctr.json",
+      "output_file": "VTU_43_page_01_biolabeled.json",
+      "usn": "4AD23CI054",
+      "name": "Unknown",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_44_page_01_doctr.json",
+      "output_file": "VTU_44_page_01_biolabeled.json",
+      "usn": "4AD23CD043",
+      "name": "SANVI H S",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 8,
+      "subjects_failed": 0
+    },
+    {
+      "original_file": "VTU_45_page_01_doctr.json",
+      "output_file": "VTU_45_page_01_biolabeled.json",
+      "usn": "4AD23EC095",
+      "name": "SNEHANAG N",
+      "overall_label": "Excellent",
+      "pass_percentage": 100.0,
+      "total_subjects": 6,
+      "subjects_failed": 0
+    }
+  ]
+}

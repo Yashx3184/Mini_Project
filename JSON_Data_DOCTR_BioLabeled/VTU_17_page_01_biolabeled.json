@@ -1,0 +1,101 @@
+{
+  "student_info": {
+    "usn": "4AD23CD040",
+    "name": "SAHANA N",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "Subject 1",
+      "internal_marks": 50,
+      "external_marks": 39,
+      "total_marks": 89,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS402",
+      "name": "Subject 2",
+      "internal_marks": 47,
+      "external_marks": 38,
+      "total_marks": 85,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "Subject 3",
+      "internal_marks": 43,
+      "external_marks": 21,
+      "total_marks": 64,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "Subject 4",
+      "internal_marks": 44,
+      "external_marks": 30,
+      "total_marks": 74,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "Subject 5",
+      "internal_marks": 48,
+      "external_marks": 33,
+      "total_marks": 81,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 80,
+      "external_marks": 0,
+      "total_marks": 80,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 7",
+      "internal_marks": 38,
+      "external_marks": 34,
+      "total_marks": 72,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCS405A",
+      "name": "Subject 8",
+      "internal_marks": 50,
+      "external_marks": 46,
+      "total_marks": 96,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 8,
+    "subjects_passed": 8,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 3,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 5
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_17_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.667478",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "abegdals 30038 agowgeab, 23e000. ONOEE38. gpeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 aadl N0,3der3d aie dorad soabaor 0esoog wJo / 2303-9099. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23CD040 Student Name : SAHANA N Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks / Updated on BCS401 ANALYSIS & DESIGN OF 50 39 89 P 2025-07-31 ALGORITHMS BCS402 MICROCONTROLLERS 47 38 85 P 2025-07-31 BCS403 DATABASE MANAGEMENT 43 21 64 P 2025-07-31 SYSTEMS BCSL404 ANALYSIS & DESIGN OF 47 46 A 93 P 2025-07-31 0 I ca ALGORITHMS LAB BBOC407 BIOLOGY FOR COMPUTER 44 30 74 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN VALUES 48 33 81 P 2025-07-31 COURSE BNSK459 NATIONAL SERVICE SCHEME 80 0 80 P 2025-07-31 BCS405A DISCRETE MATHEMATICAL 38 34 72 P 2025-07-31 STRUCTURES BDSL456B MONGODB 50 46 96 P 2025-07-31 woabadeo I Norfatones Nomenclature / Abbreviations P -> PASS F-> FAIL A-> ABS..."
+}

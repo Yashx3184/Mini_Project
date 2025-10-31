@@ -1,0 +1,92 @@
+{
+  "student_info": {
+    "usn": "4AD23CI009",
+    "name": "Unknown",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "Subject 1",
+      "internal_marks": 44,
+      "external_marks": 33,
+      "total_marks": 77,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BAD402",
+      "name": "Subject 2",
+      "internal_marks": 46,
+      "external_marks": 24,
+      "total_marks": 70,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "Subject 3",
+      "internal_marks": 43,
+      "external_marks": 33,
+      "total_marks": 76,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "Subject 4",
+      "internal_marks": 49,
+      "external_marks": 30,
+      "total_marks": 79,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "Subject 5",
+      "internal_marks": 95,
+      "external_marks": 0,
+      "total_marks": 95,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 44,
+      "external_marks": 38,
+      "total_marks": 82,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 7",
+      "internal_marks": 50,
+      "external_marks": 48,
+      "total_marks": 98,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 7,
+    "subjects_passed": 7,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 1,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 6
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_06_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.626859",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "agegdaly 30038 agowgeab, gednod. ONOEE3D. gpoda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 2.30.0 2do/ 23doead ada 2degas soabdbs 2o3oog 2503 / 2e3,9098. VTUI PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23CI009 Student Name :1 DARSHAN GOWDA GD Semester :4 Subject Subject Name Internal External Total Result Announced Code Marks Marks /Updated on BCS401 ANALYSIS & DESIGN OF 44 33 77 P 2025-07-31 ALGORITHMS BAD402 ARTIFICIAL 46 24 70 P 2025-07-31 INTELLIGENCE BCS403 DATABASE 45 14 59 C F 2025-07-31 MANAGEMENT SYSTEMS > BCSL404 ANALYSIS & DESIGN OF 49 a 0o 46 95 P 2025-07-31 ALGORITHMS LAB BBOC407 BIOLOGY FOR COMPUTER 43 33 76 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL! HUMAN 49 30 79 P 2025-07-31 VALUES COURSE BNSK459 NATIONAL SERVICE 95 0 95 P 2025-07-31 SCHEME BCS405A DISCRETE 44 38 82 P 2025-07-31 MATHEMATICAL STRUCTURES BDSL456B MONGODB 50 48 98 P 2025-07-31 :E soabades / Rogeadtoreb Nomenclature. / Abbreviations P-> PA..."
+}

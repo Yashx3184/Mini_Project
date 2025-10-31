@@ -1,0 +1,92 @@
+{
+  "student_info": {
+    "usn": "4AD23CI026",
+    "name": "MANYA K S",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "Subject 1",
+      "internal_marks": 47,
+      "external_marks": 30,
+      "total_marks": 77,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BAD402",
+      "name": "Subject 2",
+      "internal_marks": 46,
+      "external_marks": 31,
+      "total_marks": 77,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "Subject 3",
+      "internal_marks": 43,
+      "external_marks": 39,
+      "total_marks": 82,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "Subject 4",
+      "internal_marks": 47,
+      "external_marks": 27,
+      "total_marks": 74,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "Subject 5",
+      "internal_marks": 94,
+      "external_marks": 0,
+      "total_marks": 94,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 45,
+      "external_marks": 41,
+      "total_marks": 86,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 7",
+      "internal_marks": 49,
+      "external_marks": 46,
+      "total_marks": 95,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 7,
+    "subjects_passed": 7,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 1,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 6
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_18_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.670646",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "a.o0.0 add / soddeegd aoa adegad woabdbo gesco a0n / we3-9099. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23CI026 Student Name : MANYA K S Semester: 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks / Updated on BCS401 ANALYSIS & DESIGN OF ALGORITHMS 43 - 34 77 P 2025-07-31 BAD402 ARTIFICIAL INTELLIGENCE S 47 30 77 P 2025-07-31 BCS403 DATABASE MANAGEMENT SYSTEMS 46 31 77 P 2025-07-31 BCSL404 ANALYSIS & DESIGN OF ALGORITHMS 43 39 82 P 2025-07-31 LAB BBOC407 BIOLOGY FOR COMPUTER ENGINEERS 43 nu 21 64 P 2025-07-31 BUHK408 UNIVERSAL HUMAN VALUES COURSE 47 27 74 P 2025-07-31 BNSK459 NATIONAL SERVICE SCHEME 94 0 94 P 2025-07-31 BCS405A DISCRETE MATHEMATICAL STRUCTURES 45 41 86 P 2025-07-31 BDSL456B MONGODB 49 46 95 P 2025-07-31 soabades I dogedeared Nomenclature I Abbreviations P. -> PASS F-> FAIL A -> ABSENT W -> WITHHELD X, NE -> NOT ELIGIBLE Note : 1) Results of some subjects of some students are not appearin..."
+}

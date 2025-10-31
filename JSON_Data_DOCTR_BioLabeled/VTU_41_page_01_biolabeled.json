@@ -1,0 +1,92 @@
+{
+  "student_info": {
+    "usn": "4AD23CI011",
+    "name": "DHANUSH GOWDA",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "Subject 1",
+      "internal_marks": 43,
+      "external_marks": 19,
+      "total_marks": 62,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BAD402",
+      "name": "Subject 2",
+      "internal_marks": 35,
+      "external_marks": 18,
+      "total_marks": 53,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "Subject 3",
+      "internal_marks": 33,
+      "external_marks": 21,
+      "total_marks": 54,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "Subject 4",
+      "internal_marks": 48,
+      "external_marks": 22,
+      "total_marks": 70,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "Subject 5",
+      "internal_marks": 94,
+      "external_marks": 0,
+      "total_marks": 94,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 35,
+      "external_marks": 18,
+      "total_marks": 53,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 7",
+      "internal_marks": 41,
+      "external_marks": 43,
+      "total_marks": 84,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 7,
+    "subjects_passed": 7,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 5,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 2
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_41_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.746765",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "apegdals 30033 agawgead, 23e000. ONOEE38. apeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 auo/ Roddoegd aao adegod soaboba ce3ood 203 / 2e3-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23CI011 Student Name : DHANUSH GOWDA Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks U /Updated on 0 BCS401 ANALYSIS & DESIGN OF 43 19 62 P 2025-07-31 ALGORITHMS BAD402 ARTIFICIAL 42 18 60 2025-07-31 INTELLIGENCE BCS403 DATABASE 35 18 53 P 2025-07-31 MANAGEMENT SYSTEMS BCSL404 ANALYSIS & DESIGN OF 41 2 26 n 67 P 2025-07-31 L olox ALGORITHMS LAB BBOC407 BIOLOGY FOR COMPUTER 33 21 54 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN 48 22 70 P 2025-07-31 VALUES COURSE BNSK459 NATIONAL SERVICE 94 0 94 P 2025-07-31 SCHEME BCS405A DISCRETE 35 18 53 P 2025-07-31 MATHEMATICAL STRUCTURES BDSL456B MONGODB 41 43 84 P 2025-07-31 soabades / dogeadtorted Nomenclature / Abbreviations"
+}

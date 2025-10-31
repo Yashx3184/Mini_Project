@@ -1,0 +1,101 @@
+{
+  "student_info": {
+    "usn": "4AD23EC027",
+    "name": "GAGAN CHANDRA M S",
+    "overall_label": "Good",
+    "pass_percentage": 87.5,
+    "performance_level": "Good"
+  },
+  "subjects": [
+    {
+      "code": "BEC401",
+      "name": "Subject 1",
+      "internal_marks": 34,
+      "external_marks": 11,
+      "total_marks": 45,
+      "grade": "F",
+      "label": "Fail_Subject"
+    },
+    {
+      "code": "BEC402",
+      "name": "Subject 2",
+      "internal_marks": 46,
+      "external_marks": 32,
+      "total_marks": 78,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BEC403",
+      "name": "Subject 3",
+      "internal_marks": 44,
+      "external_marks": 34,
+      "total_marks": 78,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BECL404",
+      "name": "Subject 4",
+      "internal_marks": 40,
+      "external_marks": 24,
+      "total_marks": 64,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BBOK407",
+      "name": "Subject 5",
+      "internal_marks": 43,
+      "external_marks": 40,
+      "total_marks": 83,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 92,
+      "external_marks": 0,
+      "total_marks": 92,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 7",
+      "internal_marks": 37,
+      "external_marks": 38,
+      "total_marks": 75,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BECL456A",
+      "name": "Subject 8",
+      "internal_marks": 46,
+      "external_marks": 28,
+      "total_marks": 74,
+      "grade": "P",
+      "label": "Pass_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 8,
+    "subjects_passed": 7,
+    "subjects_failed": 1,
+    "pass_percentage": 87.5,
+    "labels_distribution": {
+      "Pass_Subjects": 2,
+      "Fail_Subjects": 1,
+      "Strong_Subjects": 5
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_24_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.691671",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "agegdals 30033 agoweeab, 23enod. ONOEE3B. gpeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 ado/ Rddoedd awo adegos Roabobo go3ood 203 / 2e3-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23EC027 Student Name : GAGAN CHANDRA M S Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks /Updated on BEC401 ELECTROMAGNETICS 34 11 45 F 2025-07-31 THEORY BEC402 PRINCIPLES OF 46 32 78 P 2025-07-31 COMMUNICATION SYSTEMS - BEC403 CONTROL SYSTEMS 44 34 78 P 2025-07-31 BECL404 COMMUNICATION LAB 39 Thol 36 75 P 2025-07-31 BBOK407 BIOLOGY FOR 40 24 64 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN 43 40 83 P 2025-07-31 VALUES COURSE BNSK459 NATIONAL SERVICE 92 0 92 P 2025-07-31 SCHEME BECL456A MICROCONTROLLERS 37 38 75 P 2025-07-31 LAB BEC405A MICROCONTROLLERS 46 28 74 P 2025-07-31 # - Noabades / dogeadtorieb Nomenclature / Abbreviations P-> PASS F-> FAIL A -> ABSENT W -> WITHHELD X, ..."
+}

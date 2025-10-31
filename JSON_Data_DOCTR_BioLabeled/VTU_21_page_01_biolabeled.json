@@ -1,0 +1,83 @@
+{
+  "student_info": {
+    "usn": "4AD23EC009",
+    "name": "BHOOMIKA KS",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BEC401",
+      "name": "Subject 1",
+      "internal_marks": 43,
+      "external_marks": 25,
+      "total_marks": 68,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC402",
+      "name": "Subject 2",
+      "internal_marks": 37,
+      "external_marks": 23,
+      "total_marks": 60,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC403",
+      "name": "Subject 3",
+      "internal_marks": 42,
+      "external_marks": 29,
+      "total_marks": 71,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BECL404",
+      "name": "Subject 4",
+      "internal_marks": 95,
+      "external_marks": 0,
+      "total_marks": 95,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOK407",
+      "name": "Subject 5",
+      "internal_marks": 41,
+      "external_marks": 30,
+      "total_marks": 71,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 36,
+      "external_marks": 21,
+      "total_marks": 57,
+      "grade": "P",
+      "label": "Pass_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 6,
+    "subjects_passed": 6,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 5,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 1
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_21_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.680399",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "apegdals 30033 agawgead, 23e000. ONOEE38. apeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. - INDIA 0.30.0 ado/ Roddoedd aao adegod soaboba cesood 203 / 2e3-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23EC009 Student Name : BHOOMIKA KS Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks U /Updated on U BEC401 ELECTROMAGNETICS 43 25 68 P 2025-07-31 THEORY BEC402 PRINCIPLES OF 46 32 78 2025-07-31 COMMUNICATION SYSTEMS BEC403 CONTROL SYSTEMS c47 28 75 P 2025-07-31 BECL404 COMMUNICATION LAB 48 Nol 47 nv 95 P 2025-07-31 BBOK407 BIOLOGY FOR 37 23 60 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN 42 29 71 P 2025-07-31 VALUES COURSE BNSK459 NATIONAL SERVICE 95 0 95 P 2025-07-31 SCHEME BECL456A MICROCONTROLLERS 41 30 71 P 2025-07-31 LAB BEC405A MICROCONTROLLERS 36 21 57 P 2025-07-31 i soabades / dogeaitoneb Nomenclature / Abbreviations P-> PASS F-> FAIL A -> ABSENT W -> WITHHELD X, NE ..."
+}

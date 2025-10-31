@@ -1,0 +1,101 @@
+{
+  "student_info": {
+    "usn": "4AD23CI010",
+    "name": "DEEPAK CHAKRASALI",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "Subject 1",
+      "internal_marks": 48,
+      "external_marks": 34,
+      "total_marks": 82,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BAD402",
+      "name": "Subject 2",
+      "internal_marks": 48,
+      "external_marks": 27,
+      "total_marks": 75,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "Subject 3",
+      "internal_marks": 47,
+      "external_marks": 31,
+      "total_marks": 78,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "Subject 4",
+      "internal_marks": 44,
+      "external_marks": 41,
+      "total_marks": 85,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "Subject 5",
+      "internal_marks": 50,
+      "external_marks": 32,
+      "total_marks": 82,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 80,
+      "external_marks": 0,
+      "total_marks": 80,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BPEK459",
+      "name": "Subject 7",
+      "internal_marks": 45,
+      "external_marks": 29,
+      "total_marks": 74,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCS405A",
+      "name": "Subject 8",
+      "internal_marks": 50,
+      "external_marks": 48,
+      "total_marks": 98,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 8,
+    "subjects_passed": 8,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 1,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 7
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_04_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.619131",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "abegdals 30038 agowgeab, 23e000. ONOEE38. gpeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 aadl N0,3der3d aie aorad soabaor 0esoog wsor / 2303-9099. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23CI010 Student Name : DEEPAK CHAKRASALI Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks / Updated on BCS401 ANALYSIS & DESIGN OF 48 34 82 P 2025-07-31 ALGORITHMS BAD402 ARTIFICIAL INTELLIGENCE 48 27 75 P 2025-07-31 BCS403 DATABASE MANAGEMENT 47 31 78 P 2025-07-31 SYSTEMS BCSL404 ANALYSIS & DESIGN OF 49 46 A 95 P 2025-07-31 U I ca ALGORITHMS LAB BBOC407 BIOLOGY FOR COMPUTER 44 41 85 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN VALUES 50 32 82 P 2025-07-31 COURSE BPEK459 PHYSICAL EDUCATION 80 0 80 P 2025-07-31 BCS405A DISCRETE MATHEMATICAL 45 29 74 P 2025-07-31 STRUCTURES BDSL456B MONGODB 50 48 98 P 2025-07-31 woabadeo I Norfatones Nomenclature / Abbreviations P -> PASS F-> ..."
+}

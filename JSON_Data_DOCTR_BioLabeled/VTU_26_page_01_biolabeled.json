@@ -1,0 +1,101 @@
+{
+  "student_info": {
+    "usn": "4AD23CI052",
+    "name": "sinchana n",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "Subject 1",
+      "internal_marks": 41,
+      "external_marks": 25,
+      "total_marks": 66,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BAD402",
+      "name": "Subject 2",
+      "internal_marks": 41,
+      "external_marks": 25,
+      "total_marks": 66,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "Subject 3",
+      "internal_marks": 43,
+      "external_marks": 18,
+      "total_marks": 61,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "Subject 4",
+      "internal_marks": 45,
+      "external_marks": 43,
+      "total_marks": 88,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "Subject 5",
+      "internal_marks": 43,
+      "external_marks": 20,
+      "total_marks": 63,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 46,
+      "external_marks": 30,
+      "total_marks": 76,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BPEK459",
+      "name": "Subject 7",
+      "internal_marks": 45,
+      "external_marks": 18,
+      "total_marks": 63,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCS405A",
+      "name": "Subject 8",
+      "internal_marks": 48,
+      "external_marks": 40,
+      "total_marks": 88,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 8,
+    "subjects_passed": 8,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 5,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 3
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_26_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.698773",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "agegdals 30033 agoweeab, 23enod. ONOEE3B. gpeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 ado/ Rddoedd awo adegos Roabobo go3ood 203 / 2e3-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23CI052 Student Name : sinchana n Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks /Updated on BCS401 ANALYSIS & DESIGN 41 25 66 P 2025-07-31 OF ALGORITHMS BAD402 ARTIFICIAL 41 25 66 P 2025-07-31 INTELLIGENCE BCS403 DATABASE 43 18 61 P 2025-07-31 MANAGEMENT 0 I - A SYSTEMS nainal n EIl BCSL404 ANALYSIS & DESIGN 45 43 88 P 2025-07-31 OF ALGORITHMS LAB BBOC407 BIOLOGY FOR 43 20 63 P 2025-07-31 COMPUTER ENGINEERS BUHK408 UNIVERSAL HUMAN 46 30 76 P 2025-07-31 VALUES COURSE BPEK459 PHYSICAL EDUCATION 100 0 100 P 2025-07-31 BCS405A DISCRETE 45 18 63 P 2025-07-31 MATHEMATICAL STRUCTURES BDSL456B MONGODB 48 40 88 P 2025-07-31 : Noabades / dogeadtorieb Nomenclature / Abbreviations P-> PAS..."
+}

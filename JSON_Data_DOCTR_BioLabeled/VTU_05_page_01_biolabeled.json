@@ -1,0 +1,101 @@
+{
+  "student_info": {
+    "usn": "4AD23EC011",
+    "name": "BHUVAN H",
+    "overall_label": "Good",
+    "pass_percentage": 87.5,
+    "performance_level": "Good"
+  },
+  "subjects": [
+    {
+      "code": "BEC401",
+      "name": "Subject 1",
+      "internal_marks": 41,
+      "external_marks": 13,
+      "total_marks": 54,
+      "grade": "F",
+      "label": "Fail_Subject"
+    },
+    {
+      "code": "BEC402",
+      "name": "Subject 2",
+      "internal_marks": 45,
+      "external_marks": 23,
+      "total_marks": 68,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC403",
+      "name": "Subject 3",
+      "internal_marks": 41,
+      "external_marks": 27,
+      "total_marks": 68,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BECL404",
+      "name": "Subject 4",
+      "internal_marks": 37,
+      "external_marks": 21,
+      "total_marks": 58,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BBOK407",
+      "name": "Subject 5",
+      "internal_marks": 47,
+      "external_marks": 24,
+      "total_marks": 71,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 90,
+      "external_marks": 0,
+      "total_marks": 90,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 7",
+      "internal_marks": 40,
+      "external_marks": 38,
+      "total_marks": 78,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BECL456A",
+      "name": "Subject 8",
+      "internal_marks": 39,
+      "external_marks": 22,
+      "total_marks": 61,
+      "grade": "P",
+      "label": "Pass_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 8,
+    "subjects_passed": 7,
+    "subjects_failed": 1,
+    "pass_percentage": 87.5,
+    "labels_distribution": {
+      "Pass_Subjects": 5,
+      "Fail_Subjects": 1,
+      "Strong_Subjects": 2
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_05_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.622337",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "agegdals 30033 agoweeab, 23enod. ONOEE3B. gpeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 ado/ Rddoedd awo adegos Roabobo go3ood 203 / 2e3-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23EC011 Student Name : BHUVAN H Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks /Updated on BEC401 ELECTROMAGNETICS 41 13 54 F 2025-07-31 THEORY BEC402 PRINCIPLES OF 45 23 68 P 2025-07-31 COMMUNICATION SYSTEMS BEC403 CONTROL SYSTEMS 41 27 68 P 2025-07-31 BECL404 COMMUNICATION LAB 48 nol 46 94 P 2025-07-31 BBOK407 BIOLOGY FOR 37 21 58 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN 47 24 71 P 2025-07-31 VALUES COURSE BNSK459 NATIONAL SERVICE 90 0 90 P 2025-07-31 SCHEME BECL456A MICROCONTROLLERS 40 38 78 P 2025-07-31 LAB BEC405A MICROCONTROLLERS 39 22 61 P 2025-07-31 # - Noabades / dogeadtorieb Nomenclature / Abbreviations P-> PASS F-> FAIL A -> ABSENT W -> WITHHELD X, NE -> NOT EL..."
+}

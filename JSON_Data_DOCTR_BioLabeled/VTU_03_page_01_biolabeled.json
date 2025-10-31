@@ -1,0 +1,101 @@
+{
+  "student_info": {
+    "usn": "4AD23CD024",
+    "name": "MANASA M",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "Subject 1",
+      "internal_marks": 50,
+      "external_marks": 37,
+      "total_marks": 87,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS402",
+      "name": "Subject 2",
+      "internal_marks": 50,
+      "external_marks": 37,
+      "total_marks": 87,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "Subject 3",
+      "internal_marks": 49,
+      "external_marks": 99,
+      "total_marks": 5,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "Subject 4",
+      "internal_marks": 48,
+      "external_marks": 27,
+      "total_marks": 75,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "Subject 5",
+      "internal_marks": 49,
+      "external_marks": 39,
+      "total_marks": 88,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 6",
+      "internal_marks": 80,
+      "external_marks": 0,
+      "total_marks": 80,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 7",
+      "internal_marks": 50,
+      "external_marks": 40,
+      "total_marks": 90,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS405A",
+      "name": "Subject 8",
+      "internal_marks": 50,
+      "external_marks": 50,
+      "total_marks": 100,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 8,
+    "subjects_passed": 8,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 1,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 7
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_03_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.616010",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "apegdals 30033 agawgead, 23e000. ONOEE38. apeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. - INDIA 2. 30. a ado / R3doedd ada aoegad Roaoba cesood 203 / 2003-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23CD024 Student Name : MANASA M Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks 0 /Updated on 0 BCS401 ANALYSIS & DESIGN OF 50 37 87 P 2025-07-31 ALGORITHMS BCS402 MICROCONTROLLERS 50 37 87 P 2025-07-31 BCS403 DATABASE 50 31 81 O8P 2025-07-31 MANAGEMENT SYSTEMS BCSL404 ANALYSIS & DESIGN OF 50 - 49 99 5 P 2025-07-31 ALGORITHMS LAB a ological BBOC407 BIOLOGY FOR COMPUTER 48 27 75 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN 49 39 88 P 2025-07-31 VALUES COURSE BNSK459 NATIONAL SERVICE 80 0 80 P 2025-07-31 SCHEME BCS405A DISCRETE 50 40 90 P 2025-07-31 MATHEMATICAL STRUCTURES BDSL456B MONGODB 50 50 100 P 2025-07-31 soabades / dogeadtorted Nomenclature / Abbreviations"
+}

@@ -1,0 +1,92 @@
+{
+  "student_info": {
+    "usn": "4AD23EC105",
+    "name": "V V RIYA VIJAY",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BEC401",
+      "name": "Subject 1",
+      "internal_marks": 50,
+      "external_marks": 29,
+      "total_marks": 79,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BEC402",
+      "name": "Subject 2",
+      "internal_marks": 50,
+      "external_marks": 32,
+      "total_marks": 82,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BEC403",
+      "name": "Subject 3",
+      "internal_marks": 50,
+      "external_marks": 34,
+      "total_marks": 84,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BECL404",
+      "name": "Subject 4",
+      "internal_marks": 50,
+      "external_marks": 37,
+      "total_marks": 87,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOK407",
+      "name": "Subject 5",
+      "internal_marks": 44,
+      "external_marks": 40,
+      "total_marks": 84,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 6",
+      "internal_marks": 98,
+      "external_marks": 0,
+      "total_marks": 98,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BEC405A",
+      "name": "Subject 7",
+      "internal_marks": 49,
+      "external_marks": 41,
+      "total_marks": 90,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 7,
+    "subjects_passed": 7,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 0,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 7
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_37_page_01_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.733197",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "agegdals 30038 agaweeab, 238000. ONOEE3B. apeda VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI. KARNATAKA. INDIA 0.30.0 aad / Roddoedd aao adegod Roaobo pesooa 203 / 2e3-9098. VTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION. University Seat Number : 4AD23EC105 Student Name : V V RIYA VIJAY Semester : 4 Subject Subject Name Internal External Total Result Announced Code Marks Marks / I Updated 23 on BEC401 ELECTROMAGNETICS 50 29 79 P 2025-07-31 THEORY BEC402 PRINCIPLES OF 50 32 82 P 2025-07-31 COMMUNICATION SYSTEMS - BEC403 CONTROL SYSTEMS 50 34 84 P 2025-07-31 BECL404 COMMUNICATION 48 5 50 98 ( P 2025-07-31 LAB BBOK407 BIOLOGY FOR 50 37 87 P 2025-07-31 ENGINEERS 3UHK408 UNIVERSAL HUMAN 44 40 84 P 2025-07-31 VALUES COURSE BNSK459 NATIONAL SERVICE 98 0 98 P 2025-07-31 SCHEME 3ECL456A MICROCONTROLLERS 49 41 90 P 2025-07-31 LAB BEC405A MICROCONTROLLERS 50 37 87 P 2025-07-31 - soabades / dogeaitorted Nomenclature / Abbreviations P -> PASS F-> FAIL A -> ABSENT W -> WITHHELD X..."
+}

@@ -1,0 +1,83 @@
+{
+  "student_info": {
+    "usn": "4AD23EC093",
+    "name": "SINCHANA N",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BEC401",
+      "name": "Subject 1",
+      "internal_marks": 50,
+      "external_marks": 28,
+      "total_marks": 78,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BEC402",
+      "name": "Subject 2",
+      "internal_marks": 48,
+      "external_marks": 25,
+      "total_marks": 73,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC403",
+      "name": "Subject 3",
+      "internal_marks": 50,
+      "external_marks": 37,
+      "total_marks": 87,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOK407",
+      "name": "Subject 4",
+      "internal_marks": 45,
+      "external_marks": 49,
+      "total_marks": 91,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "Subject 5",
+      "internal_marks": 45,
+      "external_marks": 42,
+      "total_marks": 87,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "Subject 6",
+      "internal_marks": 96,
+      "external_marks": 0,
+      "total_marks": 96,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 6,
+    "subjects_passed": 6,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 1,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 5
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_15_doctr.json",
+    "extraction_method": "doctr",
+    "bio_labeling_timestamp": "2025-10-31T19:12:14.660763",
+    "bio_labeling_version": "1.0"
+  },
+  "raw_ocr_text": "DE Edot RoE pgcegoos VISVESVARAYA TECHNOLOGICAL UNIVERSITY dumb BELAGAVL 3.30.0 Roabdbe gosod. VTU PROVISIONAL RESULT. wamdedD/storddi ddo Eorfob msbdud domod med/mud-30SK VTUI PROVISIONAL RESULTS OF UG/PG June A Juty-2025 EXAMINATION. University Seat Number :4AD23EC093 Student Name SINCHANA N Semester 4 Subject Subject Name Intermal External Total Result Announced Code Marks Marks /Updated on BEC401 ELECTROMAGNETICS 50 28 78 P 2025-07-31 THEORY BEC402 PRINCIPLES OF 48 25 73 P 2025-07-31 COMMUNICATION SYSTEMS BEC403 CONTROL: SYSTEMS 50 37 87 P 2025-07-31 BECLAD4 COMMUNICATION 45 49 91 P 2025-07-31 LAB BBOK407 BIOLOGY FOR 45 E 20 I - 65 P 2025-07-31 ENGINEERS BUHK408 UNIVERSAL HUMAN 45 42 87 P 2025-07-31 VALUES COURSE BNSK459 NATIONAL: SERVICE 96 0 96 P 2025-07-31 SCHEME BECLASSA MICROCONTROLLERS 42 45 67 P 2025-07-31 LAB HECADSA MICROCONTROLLERS 41 27 68 P 2025-07-31 masbddre I doframartds Nomenclature, / Abbreviations P- PASS F-FAL A- ABSENT W 4 WITHHELD XNE - NOT EUGBLE Nate: 1 Reiuf..."
+}
