@@ -1,0 +1,238 @@
+{
+  "filename": "VTU_07.pdf",
+  "extraction_timestamp": "2025-10-31T15:54:27.631401",
+  "extraction_method": "pdfplumber",
+  "raw_text": "=== PAGE 1 ===\n ವಿ.\u0000ಾ.ವಿ ಪದವಿ / \u0000ಾ\u0000ತ\u0000ೂೕತ\u0000ರ ಪದವಿ ಪ\u0000ೕಕ್ಷೆಯ \u0000ಾಮಯಿಕ ಫಲಿ\u0000ಾಂಶ ಜೂನ / ಜು\u0000ೖ-೨೦೨೫.\nVTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION.\nUniversity Seat Number : 4AD23EC022\nStudent Name : DIVYASHREE M\nSemester : 4\nSubject Subject Name Internal External Total Result Announced\nCode Marks Marks / Updated\non\nBEC401 ELECTROMAGNETICS 47 20 67 P 2025-07-31\nTHEORY\nBEC402 PRINCIPLES OF 48 26 74 P 2025-07-31\nCOMMUNICATION\nSYSTEMS\nBEC403 CONTROL SYSTEMS 46 29 75 P 2025-07-31\nBECL404 COMMUNICATION LAB 40 47 87 P 2025-07-31\nBBOK407 BIOLOGY FOR 45 32 77 P 2025-07-31\nENGINEERS\nBUHK408 UNIVERSAL HUMAN 47 35 82 P 2025-07-31\nVALUES COURSE\nBPEK459 PHYSICAL EDUCATION 75 0 75 P 2025-07-31\nBECL456A MICROCONTROLLERS 42 45 87 P 2025-07-31\nLAB\nBEC405A MICROCONTROLLERS 48 27 75 P 2025-07-31\n \u0000ಾಮಕರಣ / ಸಂಕ್ಷೇಪಣಗಳ\u0000\nNomenclature / Abbreviations\nP -> PASS F -> FAIL A -> ABSENT W -> WITHHELD X, NE -> NOT ELIGIBLE\n=== END PAGE 1 ===\n\n=== PAGE 2 ===\nNote :\n1) Results of some subjects of some students are not appearing due to reasons such as,\na) CIE not Available\nb) SEE not available\nbecause of technical reasons etc, however they will be updated shortly.\n2) Withheld results to be announced later.\nಸಹಿ/-\nSd/-\nಕುಲಸಚಿವರು (\u0000ೌಲ\u0000\u0000ಾಪನ)\nREGISTRAR (EVALUATION)\n=== END PAGE 2 ===",
+  "tables_data": [
+    {
+      "page": 1,
+      "table_number": 1,
+      "headers": [
+        "University Seat Number",
+        ": 4AD23EC022"
+      ],
+      "rows": [
+        [
+          "Student Name",
+          ": DIVYASHREE M"
+        ]
+      ],
+      "total_rows": 1
+    },
+    {
+      "page": 1,
+      "table_number": 2,
+      "headers": [
+        "Subject\nCode",
+        "Subject Name",
+        "Internal\nMarks",
+        "External\nMarks",
+        "Total",
+        "Result",
+        "Announced\n/ Updated\non"
+      ],
+      "rows": [
+        [
+          "BEC401",
+          "ELECTROMAGNETICS\nTHEORY",
+          "47",
+          "20",
+          "67",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BEC402",
+          "PRINCIPLES OF\nCOMMUNICATION\nSYSTEMS",
+          "48",
+          "26",
+          "74",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BEC403",
+          "CONTROL SYSTEMS",
+          "46",
+          "29",
+          "75",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BECL404",
+          "COMMUNICATION LAB",
+          "40",
+          "47",
+          "87",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BBOK407",
+          "BIOLOGY FOR\nENGINEERS",
+          "45",
+          "32",
+          "77",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BUHK408",
+          "UNIVERSAL HUMAN\nVALUES COURSE",
+          "47",
+          "35",
+          "82",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BPEK459",
+          "PHYSICAL EDUCATION",
+          "75",
+          "0",
+          "75",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BECL456A",
+          "MICROCONTROLLERS\nLAB",
+          "42",
+          "45",
+          "87",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BEC405A",
+          "MICROCONTROLLERS",
+          "48",
+          "27",
+          "75",
+          "P",
+          "2025-07-31"
+        ]
+      ],
+      "total_rows": 9
+    },
+    {
+      "page": 1,
+      "table_number": 3,
+      "headers": [
+        "P -> PASS",
+        "F -> FAIL",
+        "A -> ABSENT",
+        "W -> WITHHELD",
+        "X, NE -> NOT ELIGIBLE"
+      ],
+      "rows": [],
+      "total_rows": 0
+    }
+  ],
+  "parsed_data": {
+    "student_info": {
+      "usn": "4AD23EC022",
+      "name": "DIVYASHREE M",
+      "result": ""
+    },
+    "institution_info": {
+      "university": "Visvesvaraya Technological University"
+    },
+    "result_info": {
+      "semester": 4,
+      "exam_dates": [
+        "2025-07-31"
+      ]
+    },
+    "subjects": [
+      {
+        "code": "BEC401",
+        "name": "ELECTROMAGNETICS\nTHEORY",
+        "internal_marks": "47",
+        "external_marks": "20",
+        "total_marks": "67",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BEC402",
+        "name": "PRINCIPLES OF\nCOMMUNICATION\nSYSTEMS",
+        "internal_marks": "48",
+        "external_marks": "26",
+        "total_marks": "74",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BEC403",
+        "name": "CONTROL SYSTEMS",
+        "internal_marks": "46",
+        "external_marks": "29",
+        "total_marks": "75",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BECL404",
+        "name": "COMMUNICATION LAB",
+        "internal_marks": "40",
+        "external_marks": "47",
+        "total_marks": "87",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BBOK407",
+        "name": "BIOLOGY FOR\nENGINEERS",
+        "internal_marks": "45",
+        "external_marks": "32",
+        "total_marks": "77",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BUHK408",
+        "name": "UNIVERSAL HUMAN\nVALUES COURSE",
+        "internal_marks": "47",
+        "external_marks": "35",
+        "total_marks": "82",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BPEK459",
+        "name": "PHYSICAL EDUCATION",
+        "internal_marks": "75",
+        "external_marks": "0",
+        "total_marks": "75",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BECL456A",
+        "name": "MICROCONTROLLERS\nLAB",
+        "internal_marks": "42",
+        "external_marks": "45",
+        "total_marks": "87",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BEC405A",
+        "name": "MICROCONTROLLERS",
+        "internal_marks": "48",
+        "external_marks": "27",
+        "total_marks": "75",
+        "grade": "P",
+        "result": ""
+      }
+    ],
+    "summary": {
+      "total_subjects": 9,
+      "subjects_passed": 9,
+      "subjects_failed": 0,
+      "pass_percentage": 100.0
+    }
+  }
+}

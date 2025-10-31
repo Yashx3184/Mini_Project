@@ -1,0 +1,279 @@
+{
+  "filename": "VTU_12.pdf",
+  "extraction_timestamp": "2025-10-31T15:54:28.524148",
+  "extraction_method": "pdfplumber",
+  "raw_text": "=== PAGE 1 ===\nವಿ.\u0000ಾ.ವಿ ಪದವಿ / \u0000ಾ\u0000ತ\u0000ೂೕತ\u0000ರ ಪದವಿ ಪ\u0000ೕಕ್ಷೆಯ \u0000ಾಮಯಿಕ ಫಲಿ\u0000ಾಂಶ ಜೂನ / ಜು\u0000ೖ-೨೦೨೫.\nVTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION.\nUniversity Seat Number : 4AD23EC062\nStudent Name : NISHITH GOWDA K S\nSemester : 4\nSubject Subject Name Internal External Total Result Announced\nCode Marks Marks / Updated\non\nBEC401 ELECTROMAGNETICS 27 18 45 P 2025-07-31\nTHEORY\nBEC402 PRINCIPLES OF 31 18 49 P 2025-07-31\nCOMMUNICATION\nSYSTEMS\nBEC403 CONTROL SYSTEMS 36 14 50 F 2025-07-31\nBECL404 COMMUNICATION LAB 34 23 57 P 2025-07-31\nBBOK407 BIOLOGY FOR 37 14 51 F 2025-07-31\nENGINEERS\nBUHK408 UNIVERSAL HUMAN 41 20 61 P 2025-07-31\nVALUES COURSE\nBPEK459 PHYSICAL EDUCATION 60 0 60 P 2025-07-31\nBECL456A MICROCONTROLLERS 37 22 59 P 2025-07-31\nLAB\nBEC405A MICROCONTROLLERS 33 8 41 F 2025-07-31\nSemester : 3\nSubject Subject Name Internal External Total Result Announced\nCode Marks Marks / Updated\non\nBMATEC301 AV MATHEMATICS-III 32 10 42 F 2025-08-21\nFOR EC ENGINEERING\n=== END PAGE 1 ===\n\n=== PAGE 2 ===\nBEC304 NETWORK ANALYSIS 40 18 58 P 2025-08-21\n\u0000ಾಮಕರಣ / ಸಂಕ್ಷೇಪಣಗಳ\u0000\nNomenclature / Abbreviations\nP -> PASS F -> FAIL A -> ABSENT W -> WITHHELD X, NE -> NOT ELIGIBLE\nNote :\n1) Results of some subjects of some students are not appearing due to reasons such as,\na) CIE not Available\nb) SEE not available\nbecause of technical reasons etc, however they will be updated shortly.\n2) Withheld results to be announced later.\nಸಹಿ/-\nSd/-\nಕುಲಸಚಿವರು (\u0000ೌಲ\u0000\u0000ಾಪನ)\nREGISTRAR (EVALUATION)\n=== END PAGE 2 ===",
+  "tables_data": [
+    {
+      "page": 1,
+      "table_number": 1,
+      "headers": [
+        "University Seat Number",
+        ": 4AD23EC062"
+      ],
+      "rows": [
+        [
+          "Student Name",
+          ": NISHITH GOWDA K S"
+        ]
+      ],
+      "total_rows": 1
+    },
+    {
+      "page": 1,
+      "table_number": 2,
+      "headers": [
+        "Subject\nCode",
+        "Subject Name",
+        "Internal\nMarks",
+        "External\nMarks",
+        "Total",
+        "Result",
+        "Announced\n/ Updated\non"
+      ],
+      "rows": [
+        [
+          "BEC401",
+          "ELECTROMAGNETICS\nTHEORY",
+          "27",
+          "18",
+          "45",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BEC402",
+          "PRINCIPLES OF\nCOMMUNICATION\nSYSTEMS",
+          "31",
+          "18",
+          "49",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BEC403",
+          "CONTROL SYSTEMS",
+          "36",
+          "14",
+          "50",
+          "F",
+          "2025-07-31"
+        ],
+        [
+          "BECL404",
+          "COMMUNICATION LAB",
+          "34",
+          "23",
+          "57",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BBOK407",
+          "BIOLOGY FOR\nENGINEERS",
+          "37",
+          "14",
+          "51",
+          "F",
+          "2025-07-31"
+        ],
+        [
+          "BUHK408",
+          "UNIVERSAL HUMAN\nVALUES COURSE",
+          "41",
+          "20",
+          "61",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BPEK459",
+          "PHYSICAL EDUCATION",
+          "60",
+          "0",
+          "60",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BECL456A",
+          "MICROCONTROLLERS\nLAB",
+          "37",
+          "22",
+          "59",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BEC405A",
+          "MICROCONTROLLERS",
+          "33",
+          "8",
+          "41",
+          "F",
+          "2025-07-31"
+        ]
+      ],
+      "total_rows": 9
+    },
+    {
+      "page": 1,
+      "table_number": 3,
+      "headers": [
+        "Subject\nCode",
+        "Subject Name",
+        "Internal\nMarks",
+        "External\nMarks",
+        "Total",
+        "Result",
+        "Announced\n/ Updated\non"
+      ],
+      "rows": [
+        [
+          "BMATEC301",
+          "AV MATHEMATICS-III\nFOR EC ENGINEERING",
+          "32",
+          "10",
+          "42",
+          "F",
+          "2025-08-21"
+        ]
+      ],
+      "total_rows": 1
+    },
+    {
+      "page": 2,
+      "table_number": 1,
+      "headers": [
+        "BEC304",
+        "NETWORK ANALYSIS",
+        "40",
+        "18",
+        "58",
+        "P",
+        "2025-08-21"
+      ],
+      "rows": [],
+      "total_rows": 0
+    },
+    {
+      "page": 2,
+      "table_number": 2,
+      "headers": [
+        "P -> PASS",
+        "F -> FAIL",
+        "A -> ABSENT",
+        "W -> WITHHELD",
+        "X, NE -> NOT ELIGIBLE"
+      ],
+      "rows": [],
+      "total_rows": 0
+    }
+  ],
+  "parsed_data": {
+    "student_info": {
+      "usn": "4AD23EC062",
+      "name": "NISHITH GOWDA K S",
+      "result": ""
+    },
+    "institution_info": {
+      "university": "Visvesvaraya Technological University"
+    },
+    "result_info": {
+      "semester": 4,
+      "exam_dates": [
+        "2025-07-31",
+        "2025-08-21"
+      ]
+    },
+    "subjects": [
+      {
+        "code": "BEC401",
+        "name": "ELECTROMAGNETICS\nTHEORY",
+        "internal_marks": "27",
+        "external_marks": "18",
+        "total_marks": "45",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BEC402",
+        "name": "PRINCIPLES OF\nCOMMUNICATION\nSYSTEMS",
+        "internal_marks": "31",
+        "external_marks": "18",
+        "total_marks": "49",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BEC403",
+        "name": "CONTROL SYSTEMS",
+        "internal_marks": "36",
+        "external_marks": "14",
+        "total_marks": "50",
+        "grade": "F",
+        "result": ""
+      },
+      {
+        "code": "BECL404",
+        "name": "COMMUNICATION LAB",
+        "internal_marks": "34",
+        "external_marks": "23",
+        "total_marks": "57",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BBOK407",
+        "name": "BIOLOGY FOR\nENGINEERS",
+        "internal_marks": "37",
+        "external_marks": "14",
+        "total_marks": "51",
+        "grade": "F",
+        "result": ""
+      },
+      {
+        "code": "BUHK408",
+        "name": "UNIVERSAL HUMAN\nVALUES COURSE",
+        "internal_marks": "41",
+        "external_marks": "20",
+        "total_marks": "61",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BPEK459",
+        "name": "PHYSICAL EDUCATION",
+        "internal_marks": "60",
+        "external_marks": "0",
+        "total_marks": "60",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BECL456A",
+        "name": "MICROCONTROLLERS\nLAB",
+        "internal_marks": "37",
+        "external_marks": "22",
+        "total_marks": "59",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BEC405A",
+        "name": "MICROCONTROLLERS",
+        "internal_marks": "33",
+        "external_marks": "8",
+        "total_marks": "41",
+        "grade": "F",
+        "result": ""
+      }
+    ],
+    "summary": {
+      "total_subjects": 9,
+      "subjects_passed": 6,
+      "subjects_failed": 3,
+      "pass_percentage": 66.67
+    }
+  }
+}

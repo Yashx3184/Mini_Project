@@ -1,0 +1,238 @@
+{
+  "filename": "VTU_20.pdf",
+  "extraction_timestamp": "2025-10-31T15:54:31.496524",
+  "extraction_method": "pdfplumber",
+  "raw_text": "=== PAGE 1 ===\n ವಿ.\u0000ಾ.ವಿ ಪದವಿ / \u0000ಾ\u0000ತ\u0000ೂೕತ\u0000ರ ಪದವಿ ಪ\u0000ೕಕ್ಷೆಯ \u0000ಾಮಯಿಕ ಫಲಿ\u0000ಾಂಶ ಜೂನ / ಜು\u0000ೖ-೨೦೨೫.\nVTU PROVISIONAL RESULTS OF UG / PG June / July-2025 EXAMINATION.\nUniversity Seat Number : 4AD23CD047\nStudent Name : SHRAVANI\nSemester : 4\nSubject Subject Name Internal External Total Result Announced\nCode Marks Marks / Updated\non\nBCS401 ANALYSIS & DESIGN 49 44 93 P 2025-07-31\nOF ALGORITHMS\nBCS402 MICROCONTROLLERS 50 27 77 P 2025-07-31\nBCS403 DATABASE 50 38 88 P 2025-07-31\nMANAGEMENT\nSYSTEMS\nBCSL404 ANALYSIS & DESIGN 49 42 91 P 2025-07-31\nOF ALGORITHMS LAB\nBBOC407 BIOLOGY FOR 46 46 92 P 2025-07-31\nCOMPUTER\nENGINEERS\nBUHK408 UNIVERSAL HUMAN 50 46 96 P 2025-07-31\nVALUES COURSE\nBNSK459 NATIONAL SERVICE 80 0 80 P 2025-07-31\nSCHEME\nBCS405A DISCRETE 45 46 91 P 2025-07-31\nMATHEMATICAL\nSTRUCTURES\nBDSL456B MONGODB 50 49 99 P 2025-07-31\n \u0000ಾಮಕರಣ / ಸಂಕ್ಷೇಪಣಗಳ\u0000\nNomenclature / Abbreviations\nP -> PASS F -> FAIL A -> ABSENT W -> WITHHELD X, NE -> NOT ELIGIBLE\n=== END PAGE 1 ===\n\n=== PAGE 2 ===\nNote :\n1) Results of some subjects of some students are not appearing due to reasons such as,\na) CIE not Available\nb) SEE not available\nbecause of technical reasons etc, however they will be updated shortly.\n2) Withheld results to be announced later.\nಸಹಿ/-\nSd/-\nಕುಲಸಚಿವರು (\u0000ೌಲ\u0000\u0000ಾಪನ)\nREGISTRAR (EVALUATION)\n=== END PAGE 2 ===",
+  "tables_data": [
+    {
+      "page": 1,
+      "table_number": 1,
+      "headers": [
+        "University Seat Number",
+        ": 4AD23CD047"
+      ],
+      "rows": [
+        [
+          "Student Name",
+          ": SHRAVANI"
+        ]
+      ],
+      "total_rows": 1
+    },
+    {
+      "page": 1,
+      "table_number": 2,
+      "headers": [
+        "Subject\nCode",
+        "Subject Name",
+        "Internal\nMarks",
+        "External\nMarks",
+        "Total",
+        "Result",
+        "Announced\n/ Updated\non"
+      ],
+      "rows": [
+        [
+          "BCS401",
+          "ANALYSIS & DESIGN\nOF ALGORITHMS",
+          "49",
+          "44",
+          "93",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BCS402",
+          "MICROCONTROLLERS",
+          "50",
+          "27",
+          "77",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BCS403",
+          "DATABASE\nMANAGEMENT\nSYSTEMS",
+          "50",
+          "38",
+          "88",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BCSL404",
+          "ANALYSIS & DESIGN\nOF ALGORITHMS LAB",
+          "49",
+          "42",
+          "91",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BBOC407",
+          "BIOLOGY FOR\nCOMPUTER\nENGINEERS",
+          "46",
+          "46",
+          "92",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BUHK408",
+          "UNIVERSAL HUMAN\nVALUES COURSE",
+          "50",
+          "46",
+          "96",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BNSK459",
+          "NATIONAL SERVICE\nSCHEME",
+          "80",
+          "0",
+          "80",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BCS405A",
+          "DISCRETE\nMATHEMATICAL\nSTRUCTURES",
+          "45",
+          "46",
+          "91",
+          "P",
+          "2025-07-31"
+        ],
+        [
+          "BDSL456B",
+          "MONGODB",
+          "50",
+          "49",
+          "99",
+          "P",
+          "2025-07-31"
+        ]
+      ],
+      "total_rows": 9
+    },
+    {
+      "page": 1,
+      "table_number": 3,
+      "headers": [
+        "P -> PASS",
+        "F -> FAIL",
+        "A -> ABSENT",
+        "W -> WITHHELD",
+        "X, NE -> NOT ELIGIBLE"
+      ],
+      "rows": [],
+      "total_rows": 0
+    }
+  ],
+  "parsed_data": {
+    "student_info": {
+      "usn": "4AD23CD047",
+      "name": "SHRAVANI",
+      "result": ""
+    },
+    "institution_info": {
+      "university": "Visvesvaraya Technological University"
+    },
+    "result_info": {
+      "semester": 4,
+      "exam_dates": [
+        "2025-07-31"
+      ]
+    },
+    "subjects": [
+      {
+        "code": "BCS401",
+        "name": "ANALYSIS & DESIGN\nOF ALGORITHMS",
+        "internal_marks": "49",
+        "external_marks": "44",
+        "total_marks": "93",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BCS402",
+        "name": "MICROCONTROLLERS",
+        "internal_marks": "50",
+        "external_marks": "27",
+        "total_marks": "77",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BCS403",
+        "name": "DATABASE\nMANAGEMENT\nSYSTEMS",
+        "internal_marks": "50",
+        "external_marks": "38",
+        "total_marks": "88",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BCSL404",
+        "name": "ANALYSIS & DESIGN\nOF ALGORITHMS LAB",
+        "internal_marks": "49",
+        "external_marks": "42",
+        "total_marks": "91",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BBOC407",
+        "name": "BIOLOGY FOR\nCOMPUTER\nENGINEERS",
+        "internal_marks": "46",
+        "external_marks": "46",
+        "total_marks": "92",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BUHK408",
+        "name": "UNIVERSAL HUMAN\nVALUES COURSE",
+        "internal_marks": "50",
+        "external_marks": "46",
+        "total_marks": "96",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BNSK459",
+        "name": "NATIONAL SERVICE\nSCHEME",
+        "internal_marks": "80",
+        "external_marks": "0",
+        "total_marks": "80",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BCS405A",
+        "name": "DISCRETE\nMATHEMATICAL\nSTRUCTURES",
+        "internal_marks": "45",
+        "external_marks": "46",
+        "total_marks": "91",
+        "grade": "P",
+        "result": ""
+      },
+      {
+        "code": "BDSL456B",
+        "name": "MONGODB",
+        "internal_marks": "50",
+        "external_marks": "49",
+        "total_marks": "99",
+        "grade": "P",
+        "result": ""
+      }
+    ],
+    "summary": {
+      "total_subjects": 9,
+      "subjects_passed": 9,
+      "subjects_failed": 0,
+      "pass_percentage": 100.0
+    }
+  }
+}
