@@ -1,0 +1,109 @@
+{
+  "student_info": {
+    "usn": "4AD23EC027",
+    "name": "GAGAN CHANDRA M S",
+    "overall_label": "Good",
+    "pass_percentage": 88.89,
+    "performance_level": "Good"
+  },
+  "subjects": [
+    {
+      "code": "BEC401",
+      "name": "ELECTROMAGNETICS THEORY",
+      "internal_marks": 34,
+      "external_marks": 11,
+      "total_marks": 45,
+      "grade": "F",
+      "label": "Fail_Subject"
+    },
+    {
+      "code": "BEC402",
+      "name": "PRINCIPLES OF COMMUNICATION SYSTEMS",
+      "internal_marks": 46,
+      "external_marks": 32,
+      "total_marks": 78,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BEC403",
+      "name": "CONTROL SYSTEMS",
+      "internal_marks": 44,
+      "external_marks": 34,
+      "total_marks": 78,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BECL404",
+      "name": "COMMUNICATION LAB",
+      "internal_marks": 39,
+      "external_marks": 36,
+      "total_marks": 75,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOK407",
+      "name": "BIOLOGY FOR ENGINEERS",
+      "internal_marks": 40,
+      "external_marks": 24,
+      "total_marks": 64,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "UNIVERSAL HUMAN VALUES COURSE",
+      "internal_marks": 43,
+      "external_marks": 40,
+      "total_marks": 83,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "NATIONAL SERVICE SCHEME",
+      "internal_marks": 92,
+      "external_marks": 0,
+      "total_marks": 92,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BECL456A",
+      "name": "MICROCONTROLLERS LAB",
+      "internal_marks": 37,
+      "external_marks": 38,
+      "total_marks": 75,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BEC405A",
+      "name": "MICROCONTROLLERS",
+      "internal_marks": 46,
+      "external_marks": 28,
+      "total_marks": 74,
+      "grade": "P",
+      "label": "Pass_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 9,
+    "subjects_passed": 8,
+    "subjects_failed": 1,
+    "pass_percentage": 88.89,
+    "labels_distribution": {
+      "Pass_Subjects": 2,
+      "Fail_Subjects": 1,
+      "Strong_Subjects": 6
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_24.pdf",
+    "extraction_method": "pdfplumber",
+    "bio_labeling_timestamp": "2025-10-31T18:54:26.798466",
+    "bio_labeling_version": "1.0"
+  }
+}

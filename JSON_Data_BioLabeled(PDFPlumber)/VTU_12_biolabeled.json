@@ -1,0 +1,109 @@
+{
+  "student_info": {
+    "usn": "4AD23EC062",
+    "name": "NISHITH GOWDA K S",
+    "overall_label": "Average",
+    "pass_percentage": 66.67,
+    "performance_level": "Moderate"
+  },
+  "subjects": [
+    {
+      "code": "BEC401",
+      "name": "ELECTROMAGNETICS THEORY",
+      "internal_marks": 27,
+      "external_marks": 18,
+      "total_marks": 45,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC402",
+      "name": "PRINCIPLES OF COMMUNICATION SYSTEMS",
+      "internal_marks": 31,
+      "external_marks": 18,
+      "total_marks": 49,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC403",
+      "name": "CONTROL SYSTEMS",
+      "internal_marks": 36,
+      "external_marks": 14,
+      "total_marks": 50,
+      "grade": "F",
+      "label": "Fail_Subject"
+    },
+    {
+      "code": "BECL404",
+      "name": "COMMUNICATION LAB",
+      "internal_marks": 34,
+      "external_marks": 23,
+      "total_marks": 57,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BBOK407",
+      "name": "BIOLOGY FOR ENGINEERS",
+      "internal_marks": 37,
+      "external_marks": 14,
+      "total_marks": 51,
+      "grade": "F",
+      "label": "Fail_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "UNIVERSAL HUMAN VALUES COURSE",
+      "internal_marks": 41,
+      "external_marks": 20,
+      "total_marks": 61,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BPEK459",
+      "name": "PHYSICAL EDUCATION",
+      "internal_marks": 60,
+      "external_marks": 0,
+      "total_marks": 60,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BECL456A",
+      "name": "MICROCONTROLLERS LAB",
+      "internal_marks": 37,
+      "external_marks": 22,
+      "total_marks": 59,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC405A",
+      "name": "MICROCONTROLLERS",
+      "internal_marks": 33,
+      "external_marks": 8,
+      "total_marks": 41,
+      "grade": "F",
+      "label": "Fail_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 9,
+    "subjects_passed": 6,
+    "subjects_failed": 3,
+    "pass_percentage": 66.67,
+    "labels_distribution": {
+      "Pass_Subjects": 6,
+      "Fail_Subjects": 3,
+      "Strong_Subjects": 0
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_12.pdf",
+    "extraction_method": "pdfplumber",
+    "bio_labeling_timestamp": "2025-10-31T18:54:26.775819",
+    "bio_labeling_version": "1.0"
+  }
+}

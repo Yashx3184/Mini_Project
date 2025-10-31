@@ -1,0 +1,109 @@
+{
+  "student_info": {
+    "usn": "4AD23CD047",
+    "name": "SHRAVANI",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "ANALYSIS & DESIGN OF ALGORITHMS",
+      "internal_marks": 49,
+      "external_marks": 44,
+      "total_marks": 93,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS402",
+      "name": "MICROCONTROLLERS",
+      "internal_marks": 50,
+      "external_marks": 27,
+      "total_marks": 77,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "DATABASE MANAGEMENT SYSTEMS",
+      "internal_marks": 50,
+      "external_marks": 38,
+      "total_marks": 88,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "ANALYSIS & DESIGN OF ALGORITHMS LAB",
+      "internal_marks": 49,
+      "external_marks": 42,
+      "total_marks": 91,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "BIOLOGY FOR COMPUTER ENGINEERS",
+      "internal_marks": 46,
+      "external_marks": 46,
+      "total_marks": 92,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "UNIVERSAL HUMAN VALUES COURSE",
+      "internal_marks": 50,
+      "external_marks": 46,
+      "total_marks": 96,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BNSK459",
+      "name": "NATIONAL SERVICE SCHEME",
+      "internal_marks": 80,
+      "external_marks": 0,
+      "total_marks": 80,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS405A",
+      "name": "DISCRETE MATHEMATICAL STRUCTURES",
+      "internal_marks": 45,
+      "external_marks": 46,
+      "total_marks": 91,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BDSL456B",
+      "name": "MONGODB",
+      "internal_marks": 50,
+      "external_marks": 49,
+      "total_marks": 99,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 9,
+    "subjects_passed": 9,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 0,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 9
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_20.pdf",
+    "extraction_method": "pdfplumber",
+    "bio_labeling_timestamp": "2025-10-31T18:54:26.788283",
+    "bio_labeling_version": "1.0"
+  }
+}

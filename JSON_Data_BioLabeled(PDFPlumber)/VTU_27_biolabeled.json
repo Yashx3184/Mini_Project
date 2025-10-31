@@ -1,0 +1,109 @@
+{
+  "student_info": {
+    "usn": "4AD23CI050",
+    "name": "SHOAIB SIDDIQ",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "ANALYSIS & DESIGN OF ALGORITHMS",
+      "internal_marks": 45,
+      "external_marks": 27,
+      "total_marks": 72,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BAD402",
+      "name": "ARTIFICIAL INTELLIGENCE",
+      "internal_marks": 48,
+      "external_marks": 37,
+      "total_marks": 85,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "DATABASE MANAGEMENT SYSTEMS",
+      "internal_marks": 49,
+      "external_marks": 34,
+      "total_marks": 83,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "ANALYSIS & DESIGN OF ALGORITHMS LAB",
+      "internal_marks": 44,
+      "external_marks": 50,
+      "total_marks": 94,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "BIOLOGY FOR COMPUTER ENGINEERS",
+      "internal_marks": 46,
+      "external_marks": 33,
+      "total_marks": 79,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "UNIVERSAL HUMAN VALUES COURSE",
+      "internal_marks": 46,
+      "external_marks": 42,
+      "total_marks": 88,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BPEK459",
+      "name": "PHYSICAL EDUCATION",
+      "internal_marks": 50,
+      "external_marks": 0,
+      "total_marks": 50,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCS405A",
+      "name": "DISCRETE MATHEMATICAL STRUCTURES",
+      "internal_marks": 47,
+      "external_marks": 46,
+      "total_marks": 93,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BDSL456B",
+      "name": "MONGODB",
+      "internal_marks": 50,
+      "external_marks": 49,
+      "total_marks": 99,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 9,
+    "subjects_passed": 9,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 2,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 7
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_27.pdf",
+    "extraction_method": "pdfplumber",
+    "bio_labeling_timestamp": "2025-10-31T18:54:26.806093",
+    "bio_labeling_version": "1.0"
+  }
+}

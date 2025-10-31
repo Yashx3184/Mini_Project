@@ -1,0 +1,109 @@
+{
+  "student_info": {
+    "usn": "4AD23CI052",
+    "name": "sinchana n",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BCS401",
+      "name": "ANALYSIS & DESIGN OF ALGORITHMS",
+      "internal_marks": 41,
+      "external_marks": 25,
+      "total_marks": 66,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BAD402",
+      "name": "ARTIFICIAL INTELLIGENCE",
+      "internal_marks": 41,
+      "external_marks": 25,
+      "total_marks": 66,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCS403",
+      "name": "DATABASE MANAGEMENT SYSTEMS",
+      "internal_marks": 43,
+      "external_marks": 18,
+      "total_marks": 61,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BCSL404",
+      "name": "ANALYSIS & DESIGN OF ALGORITHMS LAB",
+      "internal_marks": 45,
+      "external_marks": 43,
+      "total_marks": 88,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOC407",
+      "name": "BIOLOGY FOR COMPUTER ENGINEERS",
+      "internal_marks": 43,
+      "external_marks": 20,
+      "total_marks": 63,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "UNIVERSAL HUMAN VALUES COURSE",
+      "internal_marks": 46,
+      "external_marks": 30,
+      "total_marks": 76,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BPEK459",
+      "name": "PHYSICAL EDUCATION",
+      "internal_marks": 100,
+      "external_marks": 0,
+      "total_marks": 100,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BCS405A",
+      "name": "DISCRETE MATHEMATICAL STRUCTURES",
+      "internal_marks": 45,
+      "external_marks": 18,
+      "total_marks": 63,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BDSL456B",
+      "name": "MONGODB",
+      "internal_marks": 48,
+      "external_marks": 40,
+      "total_marks": 88,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 9,
+    "subjects_passed": 9,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 5,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 4
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_26.pdf",
+    "extraction_method": "pdfplumber",
+    "bio_labeling_timestamp": "2025-10-31T18:54:26.803532",
+    "bio_labeling_version": "1.0"
+  }
+}

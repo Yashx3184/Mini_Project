@@ -1,0 +1,118 @@
+{
+  "student_info": {
+    "usn": "4AD23EC065",
+    "name": "POORVITHA H L",
+    "overall_label": "Excellent",
+    "pass_percentage": 100.0,
+    "performance_level": "Excellent"
+  },
+  "subjects": [
+    {
+      "code": "BEC401",
+      "name": "ELECTROMAGNETICS THEORY",
+      "internal_marks": 40,
+      "external_marks": 18,
+      "total_marks": 58,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC402",
+      "name": "PRINCIPLES OF COMMUNICATION SYSTEMS",
+      "internal_marks": 44,
+      "external_marks": 19,
+      "total_marks": 63,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC403",
+      "name": "CONTROL SYSTEMS",
+      "internal_marks": 42,
+      "external_marks": 20,
+      "total_marks": 62,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BECL404",
+      "name": "COMMUNICATION LAB",
+      "internal_marks": 48,
+      "external_marks": 28,
+      "total_marks": 76,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BBOK407",
+      "name": "BIOLOGY FOR ENGINEERS",
+      "internal_marks": 45,
+      "external_marks": 26,
+      "total_marks": 71,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BUHK408",
+      "name": "UNIVERSAL HUMAN VALUES COURSE",
+      "internal_marks": 41,
+      "external_marks": 35,
+      "total_marks": 76,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BPEK459",
+      "name": "PHYSICAL EDUCATION",
+      "internal_marks": 90,
+      "external_marks": 0,
+      "total_marks": 90,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BECL456A",
+      "name": "MICROCONTROLLERS LAB",
+      "internal_marks": 39,
+      "external_marks": 36,
+      "total_marks": 75,
+      "grade": "P",
+      "label": "Strong_Subject"
+    },
+    {
+      "code": "BEC405A",
+      "name": "MICROCONTROLLERS",
+      "internal_marks": 45,
+      "external_marks": 22,
+      "total_marks": 67,
+      "grade": "P",
+      "label": "Pass_Subject"
+    },
+    {
+      "code": "BEC304",
+      "name": "NETWORK ANALYSIS",
+      "internal_marks": 40,
+      "external_marks": 39,
+      "total_marks": 79,
+      "grade": "P",
+      "label": "Strong_Subject"
+    }
+  ],
+  "summary": {
+    "total_subjects": 10,
+    "subjects_passed": 10,
+    "subjects_failed": 0,
+    "pass_percentage": 100.0,
+    "labels_distribution": {
+      "Pass_Subjects": 5,
+      "Fail_Subjects": 0,
+      "Strong_Subjects": 5
+    }
+  },
+  "metadata": {
+    "original_filename": "VTU_32.pdf",
+    "extraction_method": "pdfplumber",
+    "bio_labeling_timestamp": "2025-10-31T18:54:26.819308",
+    "bio_labeling_version": "1.0"
+  }
+}
